@@ -18,97 +18,97 @@
     
     "heroes": {
       "ana": {
-      
+        "tags": "#ana #overwatchana"
       },
       "ashe": {
-      
+        "tags": "#ashe #overwatchashe"
       },
       "baptiste": {
-      
+        "tags": "#baptiste overwatchbaptiste"
       },
       "bastion": {
-      
+        "tags": "#bastion #overwatchbastion"
       },
       "brigette": {
-      
+        "tags": "#brigette #brig #overwatchbrigette #overwatchbrig"
       },
       "doomfist": {
-      
+        "tags": "#doomfist #doom #overwatchdoomfist #overwatchdoom"
       },
       "dva": {
-      
+        "tags": "#dva #overwatchdva"
       },
       "genji": {
-      
+        "tags": "#genji #overwatchgenji"
       },
       "hanzo": {
-      
+        "tags": "#hanzo #overwatchhanzo"
       },
       "junkrat": {
-      
+        "tags": "#junkrat #junk #overwatchjunkrat #overwatchjunk"
       },
       "lucio": {
-      
+        "tags": "#lucio #overwatchlucio"
       },
       "mccree": {
-      
+        "tags": "#mccree #overwatchmccree"
       },
       "mei": {
-      
+        "tags": "#mei #overwatchmei"
       },
       "mercy": {
-      
+        "tags": "#mercy #overwatchmercy"
       },
       "moira": {
-      
+        "tags": "#moira #overwatchmoira"
       },
       "orisa": {
-      
+        "tags": "#orisa #overwatchorisa"
       },
       "pharah": {
-      
+        "tags": "#pharah #overwatchpharah"
       },
       "reaper": {
-      
+        "tags": "#reaper #overwatchreaper"
       },
       "reinhardt": {
-      
+        "tags": "#reinhardt #rein #overwatchreinhardt #overwatchrein"
       },
       "roadhog": {
-      
+        "tags": "#roadhog #hog #overwatchroadhog #overwatchhog"
       },
       "sigma": {
-      
+        "tags": "#sigma #overwatchsigma"
       },
       "soldier": {
-      
+        "tags": "#soldier #soldier76 #overwatchsoldier #overwatchsoldier76" 
       },
       "sombra": {
-      
+        "tags": "#sombra #overwatchsombra"
       },
       "symmetra": {
-      
+        "tags": "#symmetra #symm #sym #overwatchsymmetra #overwatchsymm #overwatchsym"
       },
       "torbjorn": {
-      
+        "tags": "#torbjorn #torb #overwatchtorbjorn #overwatchtorb"
       },
       "tracer": {
-      
+          "tags": "#tracer #overwatchtracer"
       },
       "widowmaker": {
-      
+          "tags": "#widowmaker #widow #overwatchwidowmaker #overwatchwidow"
       },
       "winston": {
-      
+        "tags": "#winston #monkey #overwatchwinston #overwatchmonkey"
       },
-      "wrecking ball": {
-      
+      "hammond": {
+          "tags": "#hammond #wreckingball #ball #overwatchhammond #overwatchwreckingball #overwatchball"
       },
       "zarya": {
-      
+        "tags": "#zarya #overwatchzarya"
       },
       "zenyatta": {
-      
+        "tags": "#zenyatta #zen #overwatchzenyatta #overwatchzen"
       }
     }
   }
