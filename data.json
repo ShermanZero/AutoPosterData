@@ -6,13 +6,13 @@
   "overwatch: {
     "tags": "#overwatch #gaming #gamer #blizzard #ow #overwatchgame #overwatchplays #overwatchclips #game #games #videogames #overwatchleague #playoverwatch",
     
-    "dps {
+    "dps": {
       "tags": "#dps #overwatchdps #overwatchdamgage #damage"
     },
-    "tank {
+    "tank": {
       "tags": "#tank #overwatchtank"
     },
-    "support {
+    "support": {
       "tags": "#support #overwatchsupport #healer #overwatchhealer"
     },
     
